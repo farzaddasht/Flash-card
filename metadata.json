@@ -1,0 +1,6 @@
+{
+  "name": "LeitnerFlow — 3D Spaced Repetition & Leitner Box Studio",
+  "description": "Offline-first 3D swipeable Leitner 5-Box spaced repetition flashcards with spring physics, automatic LTR/RTL Persian & English typography, and retention analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
